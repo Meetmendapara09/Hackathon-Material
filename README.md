@@ -106,6 +106,4 @@ By following these guides and tips, you'll be well-prepared to tackle any hackat
 For further insights and detailed instructions, please refer to the individual guides linked above. If you have any questions or need further assistance, feel free to reach out.
 
 ---
-Meet Mendapara
-3rd Year BTech Student
-Indus University
+Meet Mendapara<br/>3rd Year BTech Student<br/>Indus University
