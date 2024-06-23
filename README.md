@@ -20,13 +20,13 @@ Discover 100 useful APIs that can enhance your hackathon project. Each API entry
 
 Explore websites for pre-built React components, React libraries, frameworks, UI component libraries, and CSS frameworks to speed up your frontend development.
 
-[Read the Frontend Resources Guide](./frontend.md)
+[Read the Frontend Resources Guide](./FrontEnd.md)
 
 ## Backend Resources
 
 Find free backend templates, serverless function providers, Backend-as-a-Service (BaaS) options, and database management tools to streamline your backend development.
 
-[Read the Backend Resources Guide](./backend.md)
+[Read the Backend Resources Guide](./BackEnd.md)
 
 ## UI/UX Inspiration
 
